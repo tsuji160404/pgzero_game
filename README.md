@@ -15,4 +15,10 @@ Credits for efx sounds from SoundBible.com
 [Space Invaders sounds](http://samples.mameworld.info/Unofficial%20Samples.htm)
 
 
+<<<<<<< HEAD
 test
+=======
+
+
+AMNOS
+>>>>>>> d4a27a064406dde795f23f223781bafd1a95325c
